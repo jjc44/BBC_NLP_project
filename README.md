@@ -72,7 +72,7 @@ The confusion matrix is instructive into the model's performance across the clas
 
 The confusion matrix is shown below:
 
-![Confusion Matrix](/path/to/img.jpg)
+![Confusion Matrix](/norm_conf_mx.png)
 
 
 Precision and recall give different information about the model performance. For this use case it seems that f1 score, the harmonic mean of precision and recall, is the most important metric for the model.  
@@ -137,6 +137,5 @@ Intuitively, many news articles will touch on more than one topic and there may 
 ##### Error Analysis
 
 Generally, the entertainment class was mislabeled the most.  The highest confused class categories should be explored.  The model made ~10% of its sub-class errors when the model predicted entertainment but the article's true label was tech.
-
 
 
