@@ -58,7 +58,7 @@ My approach to this project was to follow a path I had used in previous NLP rese
 
 7. Evaluate the model's performance.  It would be important to evaluate model accuracy across the different classes to understand where the model is strong or weak.  
 
-The implementation and discussion of these steps is shown in the jupyter notebook file [AFC_NLP_v1]: (https://github.com/jjc44/BBC_NLP_project/blob/main/AFC_NLP_v1.ipynb "AFC_NLP_v1").
+The implementation and discussion of these steps is shown in the jupyter notebook file [AFC_NLP_v1] (https://github.com/jjc44/BBC_NLP_project/blob/main/AFC_NLP_v1.ipynb "AFC_NLP_v1").
 
 #### Modeling Results
 
